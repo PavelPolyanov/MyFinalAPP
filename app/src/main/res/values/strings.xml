@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyFinalProject</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="shafutinskiy_data_set">Shafutinskiy Data Set</string>
+    <string name="developer">DEVELOPER</string>
+    <string name="about_application">ABOUT APPLICATION</string>
+    <string name="todo">TODO</string>
+    <string name="application_version_history">Application version history</string>
+    <string name="clock_button">clock_button</string>
+    <string name="calendar_button">calendar_button</string>
+    <string name="calendar">CALENDAR</string>
+    <string name="calendar_butt">Calendar</string>
+    <string name="clock">Clock</string>
+    <string name="app_version">App Version</string>
+</resources>

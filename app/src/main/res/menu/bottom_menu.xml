@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/clock"
+        android:icon="@drawable/ic_baseline_access_time_24"
+        android:id="@+id/clock_button"/>
+
+    <item android:title="@string/calendar_butt"
+        android:id="@+id/calendar_button"
+        android:icon="@drawable/ic_baseline_today_24"/>
+
+    <item android:title="@string/app_version"
+        android:id="@+id/app_version"
+        android:icon="@drawable/ic_baseline_contact_support_24"/>
+
+</menu>
